@@ -30,4 +30,23 @@ BugBlaster is a React-based application that allows users to log, edit, delete, 
 ---
 
 ## 📁 Folder Structure
+BugBlaster/
+├── components/
+│ ├── TicketForm.jsx
+│ ├── TicketList.jsx
+│ └── TicketItem.jsx
+├── reducers/
+│ └── ticketReducer.js
+├── utilities/
+│ └── Sortingutilities.js
+├── App.jsx
+├── App.css
+├── styles.css
+└── index.css
+
+
+
+
+
+
 
