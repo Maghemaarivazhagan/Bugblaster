@@ -15,6 +15,11 @@ BugBlaster is a React-based application that allows users to log, edit, delete, 
 
 ---
 
+🧠 What I Learned
+
+-  Implemented the `useReducer` Hook to manage complex state.
+-  Gained a deeper understanding of action-based state transitions.
+-  Improved code readability by centralizing state updates in a reducer function.
 ## 🛠️ Tech Stack
 
 | Tech | Purpose |
