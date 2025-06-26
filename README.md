@@ -1,12 +1,33 @@
-# React + Vite
+# 🐞 BugBlaster — A Simple Bug Tracking App
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+BugBlaster is a React-based application that allows users to log, edit, delete, and prioritize bugs. It’s a mini version of real-world bug tracking tools like Jira and GitHub Issues — ideal for learning `useReducer`, controlled forms, and dynamic sorting in React.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Features
 
-## Expanding the ESLint configuration
+- 📝 Add new bug tickets with a title, description, and priority
+- ✏️ Edit existing bug tickets
+- ❌ Delete tickets
+- 📊 Sort bugs by priority (High ➝ Low, Low ➝ High)
+- 🌈 Visual priority indicators (colored dots)
+- 🧠 Built using `useReducer` for state management
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+---
+
+## 🛠️ Tech Stack
+
+| Tech | Purpose |
+|------|---------|
+| React | UI components and hooks |
+| useReducer | Manage complex state |
+| CSS | Styling the UI |
+| JavaScript | App logic |
+
+---
+
+
+---
+
+## 📁 Folder Structure
+
